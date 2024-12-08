@@ -1,0 +1,1 @@
+A chatroom application made using Rust and the Loco framework
